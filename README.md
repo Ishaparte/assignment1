@@ -1,2 +1,2 @@
-[Watch the video here](img/assignment1.mp4)
+watch website: public->img->assignment1.mp4
 
